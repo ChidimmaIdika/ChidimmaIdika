@@ -1,6 +1,6 @@
 ![image](https://github.com/ChidimmaIdika/ChidimmaIdika/assets/137975543/d4b0e404-23e5-4d78-b930-db5545c81220)
 
-- 👋 Hi, I’m @ChidimmaIdika, a proficient Data Scientist and Analyst with a passion for continuous self-improvement. I'm also an Epidemiologist.
+- 👋 Hi, I’m Chidimma Idika, a proficient Data Scientist and Analyst with a passion for continuous self-improvement. I'm also an Epidemiologist.
 - 👀 I’m interested in transforming raw data into valuable insights, tackling intricate problems, and making a positive impact across diverse fields.
 - 🌱 I’m currently deepening my knowledge in advanced machine learning techniques and exploring the cutting-edge world of data analysis/visualization.
 - 💞️ I’m looking to collaborate on data-driven projects that challenge norms and create meaningful change.
