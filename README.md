@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm CHIDIMMA IDIKA</h1>   
+<h1 align="center">Hi, I'm <a href="https://gkassym.netlify.app" target="_blank">CHIDIMMA IDIKA</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </samp></h1>   
 <h4 align="center">(a.k.a. The Solutions Expert®™)</h4>
 
 <h3 align="center">A proficient Data Scientist and Analyst with passion for data-driven problem-solving and continuous self-improvement. I am also an Epidemiologist (Public Health).</h3>
@@ -31,25 +31,25 @@
     - **tackling intricate problems,**
     -  **making a positive impact across diverse fields.**
   
-- 🌱 I’m currently
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently
   - **deepening my knowledge in advanced machine learning techniques**
   - **and exploring the cutting-edge world of data analysis/visualization**
 
-- 🌱 I’m also learning **Data Engineering**
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m also learning **Data Engineering**
 
 - 👯 I’m looking to collaborate on **data-driven projects that challenge norms and create meaningful change.**
 
-- 💬 Ask me about **Data Analysis, Data Science, Statistics, Machine Learning**
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about **Data Analysis, Data Science, Statistics, Machine Learning**
 
-- 📫 How to reach me **chidimmaidika@gmail.com**
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me **chidimmaidika@gmail.com**
 
-- 📝 You can view my portfolio here: [Portfolio](https://chidimmaidika.github.io/)
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; You can view my portfolio here: [Portfolio](https://chidimmaidika.github.io/)
 
-- 👨‍💻 Most of my projects are available at: [Github repo](https://github.com/ChidimmaIdika?tab=repositories)
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; Most of my projects are available at: [Github repo](https://github.com/ChidimmaIdika?tab=repositories)
 
-- 📄 Learn about *some* of my experiences here: [Résumé](https://drive.google.com/file/d/1RpYXfQsC7kdYvK1e57DX92NJeZpHti4s/view?usp=sharing)
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp;  Learn about *some* of my experiences here: [Résumé](https://drive.google.com/file/d/1RpYXfQsC7kdYvK1e57DX92NJeZpHti4s/view?usp=sharing)
 
-- 📫 Feel free to **connect, collaborate, or simply chat with me about all things data!**
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; Feel free to **connect, collaborate, or simply chat with me about all things data!**
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chidimmaidika&label=Profile%20views&color=0e75b6&style=flat" alt="chidimmaidika" /> </p>
@@ -58,10 +58,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chidimma--idika-blue?style=flat(default)&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chidimma-idika) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Chidimma_Idika-blue?style=flat(default)&logo=github&logoColor=white)](https://chidimmaidika.github.io/) 
 [![Twitter](https://img.shields.io/twitter/follow/chidimmaidika?logo=twitter&style=flat(default))](https://twitter.com/chidimmaidika) 
+[![Instagram Badge](https://img.shields.io/badge/Instagram-chidimmaidika-blue?style=flat(default)&logo=Instagram&logoColor=white)](https://instagram.com/chidimmaidika)
 [![Tableau](https://img.shields.io/badge/Tableau-Chidimma_Idika-blue?style=flat(default)&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/chidimma.idika) 
 [![GitHub](https://img.shields.io/badge/GitHub-ChidimmaIdika-blue?style=flat(default)&logo=github&logoColor=white)](https://github.com/ChidimmaIdika)
 [![HackerRank](https://img.shields.io/badge/HackerRank-ChidimmaIdika-blue?style=flat(default)&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/chidimmaidika)
-[![Website Badge](https://img.shields.io/badge/Website-Chidimma_Idika-blue?style=flat(default)&logo=google-chrome&logoColor=white)](https://chidimmaidika.github.io/)
+[![Website Badge](https://img.shields.io/badge/Website-Chidimma_Idika-blue?style=flat(default)&logo=google-chrome&logoColor=white)](https://women-in-tech.net/users/7102107)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-chidimmaidika-blue?style=flat(default)&logo=Telegram&logoColor=white)](https://t.me/chidimmaidika)
 
 ---
 
