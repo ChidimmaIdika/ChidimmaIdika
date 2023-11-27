@@ -3,7 +3,8 @@
 
 <h3 align="center">A proficient Data Scientist and Analyst with passion for data-driven problem-solving and continuous self-improvement. I am also an Epidemiologist (Public Health).</h3>
 
-![68747470733a2f2f63646e622e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3939312f3939392f6f726967696e616c2f616e6e612d68617672796c79756b682d2e6769663f31353936313235313132](https://github.com/ChidimmaIdika/ChidimmaIdika/assets/137975543/791e51c5-7333-4a64-bf5f-1fd63f862b26)
+![image](https://github.com/ChidimmaIdika/ChidimmaIdika/assets/137975543/49a8935c-2191-4bf0-803c-831286107c2d)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chidimmaidika&label=Profile%20views&color=0e75b6&style=flat" alt="chidimmaidika" /> </p>
