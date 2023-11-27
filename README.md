@@ -11,13 +11,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chidimmaidika" alt="chidimmaidika" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/chidimmaidika" target="blank"><img src="https://img.shields.io/twitter/follow/chidimmaidika?logo=twitter&style=for-the-badge" alt="chidimmaidika" /></a> </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-chidimma--idika-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chidimma-idika)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Chidimma_Idika-blue?style=for-the-badge&logo=github&logoColor=white)](https://chidimmaidika.github.io/)
-[![Tableau](https://img.shields.io/badge/Tableau-Chidimma_Idika-blue?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/chidimma.idika)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chidimma--idika-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chidimma-idika) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Chidimma_Idika-blue?style=for-the-badge&logo=github&logoColor=white)](https://chidimmaidika.github.io/) 
+[![Twitter](https://img.shields.io/twitter/follow/chidimmaidika?logo=twitter&style=for-the-badge)](https://twitter.com/chidimmaidika) 
+
+[![Tableau](https://img.shields.io/badge/Tableau-Chidimma_Idika-blue?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/chidimma.idika) 
 [![GitHub](https://img.shields.io/badge/GitHub-ChidimmaIdika-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChidimmaIdika)
-
+[![HackerRank](https://img.shields.io/badge/HackerRank-ChidimmaIdika-blue?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/chidimmaidika)
 
 ---
 
@@ -29,7 +30,7 @@
 
 - 🌱 I’m currently **deepening my knowledge in advanced machine learning techniques and exploring the cutting-edge world of data analysis/visualization**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ChidimmaIdika?tab=repositories](https://github.com/ChidimmaIdika?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github repo](https://github.com/ChidimmaIdika?tab=repositories)
 
 - 📝 You can view my portfolio at [https://chidimmaidika.github.io/](https://chidimmaidika.github.io/)
 
