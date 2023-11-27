@@ -37,7 +37,7 @@
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m also learning **Data Engineering**
 
-- <img src="https://github.com/chidimmaidika/ChidimmaIdika/raw/main/collabo.gif" width="21" />&nbsp;&nbsp; I’m looking to collaborate on **data-driven projects that challenge norms and create meaningful change.**
+- <img src="https://github.com/chidimmaidika/ChidimmaIdika/raw/main/collaborate.gif" width="21" />&nbsp;&nbsp; I’m looking to collaborate on **data-driven projects that challenge norms and create meaningful change.**
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about **Data Analysis, Data Science, Statistics, Machine Learning**
 
