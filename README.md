@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm CHIDIMMA IDIKA</h1>   
-<h4 align="center">(a.k.a. The Solutions Expert)</h4>
+<h4 align="center">(a.k.a. The Solutions Expert®™)</h4>
 
 <h3 align="center">A proficient Data Scientist and Analyst with passion for data-driven problem-solving and continuous self-improvement. I am also an Epidemiologist (Public Health).</h3>
 
@@ -22,32 +22,46 @@
 
 ---
 
-- 🔭 I’m interested in **transforming raw data into valuable insights, tackling intricate problems, and making a positive impact across diverse fields.**
+- 🔭 I’m interested in
+    - **transforming raw data into valuable insights,**
+    - **tackling intricate problems,**
+    -  **making a positive impact across diverse fields.**
+  
+- 🌱 I’m currently
+  - **deepening my knowledge in advanced machine learning techniques**
+  - **and exploring the cutting-edge world of data analysis/visualization**
 
 - 🌱 I’m also learning **Data Engineering**
 
 - 👯 I’m looking to collaborate on **data-driven projects that challenge norms and create meaningful change.**
 
-- 🌱 I’m currently **deepening my knowledge in advanced machine learning techniques and exploring the cutting-edge world of data analysis/visualization**
-
-- 👨‍💻 All of my projects are available at [Github repo](https://github.com/ChidimmaIdika?tab=repositories)
-
-- 📝 You can view my portfolio at [https://chidimmaidika.github.io/](https://chidimmaidika.github.io/)
-
 - 💬 Ask me about **Data Analysis, Data Science, Statistics, Machine Learning**
 
 - 📫 How to reach me **chidimmaidika@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RpYXfQsC7kdYvK1e57DX92NJeZpHti4s/view?usp=sharing](https://drive.google.com/file/d/1RpYXfQsC7kdYvK1e57DX92NJeZpHti4s/view?usp=sharing)
+- 📝 You can view my portfolio here: [Portfolio](https://chidimmaidika.github.io/)
+
+- 👨‍💻 Most of my projects are available at: [Github repo](https://github.com/ChidimmaIdika?tab=repositories)
+
+- 📄 Learn about *some* of my experiences here: [Resume](https://drive.google.com/file/d/1RpYXfQsC7kdYvK1e57DX92NJeZpHti4s/view?usp=sharing)
 
 - 📫 Feel free to **connect, collaborate, or simply chat with me about all things data!**
 
 ---
-<h3 align="left">Connect with me:</h3>
+<img align="left" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
+### Fun facts about me
+- I'm a li'l bit of a gamer (video games)
+- I love outdoor adventures (amusement parks)
+- I recently developed an unhealthy love for k-drama
+- I'm a foodie (sadly, I could eat a plate for hours)
+  - I have an unhealthy knack for cramming numbers    
+---
+<h3 align="left">Find me around the web🌎:</h3>
 <p align="left">
 <a href="https://twitter.com/chidimmaidika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chidimmaidika" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chidimma-idika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chidimma-idika" height="30" width="40" /></a>
 <a href="https://instagram.com/chidimmaidika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chidimmaidika" height="30" width="40" /></a>
+<a href="https://www.facebook.com/chidimma.d.idika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chidimma.d.idika" height="30" width="40" /></a>
 </p>    
 
 ---   
