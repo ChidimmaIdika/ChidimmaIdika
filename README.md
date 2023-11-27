@@ -61,6 +61,7 @@
 [![Tableau](https://img.shields.io/badge/Tableau-Chidimma_Idika-blue?style=flat(default)&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/chidimma.idika) 
 [![GitHub](https://img.shields.io/badge/GitHub-ChidimmaIdika-blue?style=flat(default)&logo=github&logoColor=white)](https://github.com/ChidimmaIdika)
 [![HackerRank](https://img.shields.io/badge/HackerRank-ChidimmaIdika-blue?style=flat(default)&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/chidimmaidika)
+[![Website Badge](https://img.shields.io/badge/Website-Chidimma_Idika-blue?style=flat(default)&logo=google-chrome&logoColor=white)](https://chidimmaidika.github.io/)
 
 ---
 
