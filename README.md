@@ -98,5 +98,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chidimmaidika&" alt="chidimmaidika" /></p>
 
 ---
-### My GitHub Contributions
-![Snake animation](https://github.com/ChidimmaIdika/chidimmaidika/blob/output/github-contribution-grid-snake.svg)
