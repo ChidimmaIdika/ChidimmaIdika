@@ -71,7 +71,7 @@
 ### Fun facts about me
 - I'm a li'l bit of a gamer (video games)
 - I love outdoor adventures (amusement parks)
-- I recently developed an unhealthy love for k-drama
+- I recently developed an unhealthy love for K-drama
 - I'm a foodie (sadly, I could eat a plate for hours)
   - I have an unhealthy knack for cramming numbers    
 ---
