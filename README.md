@@ -18,6 +18,9 @@
 ![Static Badge](https://img.shields.io/badge/Tableau-Chidimma_Idika-blue?style=for-the-badge&logo=tableau&logoColor=white&link=https%3A%2F%2Fpublic.tableau.com%2Fapp%2Fprofile%2Fchidimma.idika)
 ![Static Badge](https://img.shields.io/badge/GitHub-ChidimmaIdika-blue?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FChidimmaIdika)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-chidimma--idika-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/chidimma-idika)
+
+
 
 ---
 
