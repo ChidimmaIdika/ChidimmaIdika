@@ -75,7 +75,7 @@
 - I'm a foodie (sadly, I could eat a plate for hours)
   - I have an unhealthy knack for cramming numbers    
 ---
-<h3 align="left">Find me around the web <img src="https://github.com/chidimmaidika/ChidimmaIdika/raw/main/globe.gif" width="60"/>&nbsp;&nbsp:</h3>
+<h3 align="left">Find me around the web <img src="https://github.com/chidimmaidika/ChidimmaIdika/raw/main/globe2.gif" width="35"/>&nbsp;&nbsp:</h3>
 <p align="left">
 <a href="https://twitter.com/chidimmaidika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chidimmaidika" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chidimma-idika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chidimma-idika" height="30" width="40" /></a>
