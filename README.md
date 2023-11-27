@@ -26,7 +26,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112">
 
 
-- 🔭 I’m interested in
+- <img src="https://github.com/chidimmaidika/ChidimmaIdika/raw/main/telescope.gif" width="21" />&nbsp;&nbsp; I’m interested in
     - **transforming raw data into valuable insights,**
     - **tackling intricate problems,**
     -  **making a positive impact across diverse fields.**
@@ -37,13 +37,13 @@
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m also learning **Data Engineering**
 
-- 👯 I’m looking to collaborate on **data-driven projects that challenge norms and create meaningful change.**
+- <img src="https://github.com/chidimmaidika/ChidimmaIdika/raw/main/collabo.gif" width="21" />&nbsp;&nbsp; I’m looking to collaborate on **data-driven projects that challenge norms and create meaningful change.**
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about **Data Analysis, Data Science, Statistics, Machine Learning**
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me **chidimmaidika@gmail.com**
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; You can view my portfolio here: [Portfolio](https://chidimmaidika.github.io/)
+- <img src="https://github.com/chidimmaidika/ChidimmaIdika/raw/main/portf.gif" width="21" />&nbsp;&nbsp; You can view my portfolio here: [Portfolio](https://chidimmaidika.github.io/)
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; Most of my projects are available at: [Github repo](https://github.com/ChidimmaIdika?tab=repositories)
 
