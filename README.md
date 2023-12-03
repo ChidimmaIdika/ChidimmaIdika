@@ -99,6 +99,6 @@
 
 ---
 <!-- 2023 Skyline -->
-<img src="https://github.com/chidimmaidika/chidimmaidika/blob/main/chi%20gif.gif" width="800">
+<img src="https://github.com/chidimmaidika/chidimmaidika/blob/main/chi%20gif.gif" width="700">
 
 ---
