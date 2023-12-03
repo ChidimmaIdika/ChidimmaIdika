@@ -98,3 +98,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chidimmaidika&" alt="chidimmaidika" /></p>
 
 ---
+<!-- 2023 Skyline -->
+<img src="https://github.com/chidimmaidika/chidimmaidika/blob/main/chi%20gif.gif" width="1000">
+
+---
