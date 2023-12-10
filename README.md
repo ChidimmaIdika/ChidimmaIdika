@@ -67,7 +67,7 @@
 
 ---
 
-<img align="left" width="150" height="150" src="https://github.com/MishManners/MishManners/blob/master/My-OctocatsShortest.gif"></a>
+<img align="left" width="150" height="150" src="https://github.com/chidimmaidika/chidimmaidika/blob/main/octocats.gif"></a>
 ### Fun facts about me
 - I'm a li'l bit of a gamer (video games)
 - I love outdoor adventures (amusement parks)
