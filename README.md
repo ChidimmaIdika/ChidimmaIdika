@@ -69,11 +69,10 @@
 
 <img align="left" width="150" height="150" src="https://github.com/chidimmaidika/chidimmaidika/blob/main/octocats.gif"></a>
 ### Fun facts about me
-- I'm a li'l bit of a gamer (video games)
-- I love outdoor adventures (amusement parks)
-- I recently developed an unhealthy love for K-drama
-- I'm a foodie (sadly, I could eat a plate for hours)
-  - I have an unhealthy knack for cramming numbers    
+- I love to dance. I've been known to tear up the dance floor on occasion. Dancing is my go-to stress buster and creative outlet.
+- My idea of a perfect weekend involves relaxing with a good book or movie. On a weekend I'm not locked in, I love exploring new places or trying out adrenaline-pumping activities, basically, a mix of adventure and travel.
+- When I'm not immersed in analysis and/or code, you'll likely find me engaged in epic gaming sessions. I'm a firm believer that strategic thinking in games improves my cognitive and problem solving skills.
+
 ---
 <h3 align="left">Find me around the web <img src="https://github.com/chidimmaidika/ChidimmaIdika/raw/main/globe2.gif" width="35"/>&nbsp;&nbsp:</h3>
 <p align="left">
